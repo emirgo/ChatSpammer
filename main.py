@@ -46,3 +46,6 @@ while message_count > count:
     keyboard.release(Key.enter)
     count += 1
     print("Sent ", count, " messages", end="\r")
+    
+print("Sent ", count, " messages.")
+print("Done!")
