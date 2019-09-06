@@ -33,8 +33,10 @@ while time_count > 0:
     time.sleep(1)
     time_count -= 1
 
+# Clear console
 clear()
 
+# Main loop
 count = 0
 while message_count > count:        
     for char in message:
