@@ -1,0 +1,2 @@
+# ChatSpammer
+ Spams chat
